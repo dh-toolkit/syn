@@ -10,6 +10,10 @@ Usage:
     python synonymizer.py --text "Your text here" --api-key "your-key"
     python synonymizer.py --file input.txt --api-key "your-key" --output result.txt
     python synonymizer.py --text "Your text" --mode rewrite
+
+Created: 2025
+Based on: ai-paraphraser.php (Three-Phase Synonymization Algorithm)
+Version: 1.0.0
 """
 
 import os
